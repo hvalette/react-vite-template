@@ -8,7 +8,7 @@ Inspired by [Vitesse](https://github.com/antfu/vitesse)
 
 -   🗂 [File based routing](./src/pages)
 
--   🎨 [TailwindCSS](https://tailwindcss.com/) and system theme by default
+-   🎨 [TailwindCSS](https://tailwindcss.com/), [Headless UI](https://headlessui.dev) and system theme by default
 
 -   😃 [Heroicons](https://heroicons.com/)
 
